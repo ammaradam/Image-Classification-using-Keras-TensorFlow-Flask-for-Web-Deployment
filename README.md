@@ -21,8 +21,10 @@ This project aims to achieve following objectives:
 
 ## Getting Started
 ### Pre-requisites
-- Keras 2.0
+- Pillow
+- Keras
 - Theano / Tensorflow / CNTK
+- Flask
 
 Install the pre-requisites:
 ```
