@@ -56,5 +56,7 @@ http://127.0.0.1:5000/static/predict.html
 Download VGG 16 model from following:
 https://drive.google.com/file/d/19yICdtSbU_YkQBRxJ2if9KJwUL1oY5xs/view
 
+Place the downloaded .h5 file in the *flask_apps* folder
+
 ### Disclaimer
 This is a work in progress. Use at your own risk.
