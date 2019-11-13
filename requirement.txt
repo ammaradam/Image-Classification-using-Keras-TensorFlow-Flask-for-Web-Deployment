@@ -1,0 +1,4 @@
+pillow==6.2.1
+python==3.7.5
+tensorflow==2.0.0
+keras==2.3.1
