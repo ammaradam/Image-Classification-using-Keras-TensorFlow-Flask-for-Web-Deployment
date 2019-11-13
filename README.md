@@ -47,7 +47,7 @@ set FLASK_APP=predict_app.py
 flask run --host=0.0.0.0
 ```
 3) Access from browser on local server
-Open any browser and access the webpage
+- Open any browser and access the webpage
 ```
 http://127.0.0.1:5000/static/predict.html
 ```
