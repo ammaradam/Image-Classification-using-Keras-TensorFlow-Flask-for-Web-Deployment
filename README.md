@@ -71,3 +71,8 @@ Place the downloaded .h5 file in the *flask_apps* folder
 
 ### Disclaimer
 This is a work in progress. Use at your own risk.
+
+
+### What's cooking?
+- Improving accuracy classification of tomatoes
+- To train and include more classification models. Stay tuned!
