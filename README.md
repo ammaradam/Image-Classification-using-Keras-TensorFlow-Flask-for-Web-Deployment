@@ -58,10 +58,13 @@ http://127.0.0.1:5000/static/predict.html
 
 ### Download sample model
 Download VGG 16 model from following:
--Classification Dogs & Cats (Default)
+
+- Classification Dogs & Cats (Default):
+
 https://drive.google.com/file/d/19yICdtSbU_YkQBRxJ2if9KJwUL1oY5xs/view
 
--Classification Ripe & Unripe Tomatoes (work in progress)
+- Classification Ripe & Unripe Tomatoes (work in progress):
+
 https://drive.google.com/open?id=1tmQlU026PyGoKbTLPBxH4VlH_Mr_1zmc
 
 Place the downloaded .h5 file in the *flask_apps* folder
