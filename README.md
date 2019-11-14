@@ -3,6 +3,10 @@
 This project is a compilation and derivation from "Deploy Keras neural network to Flask web service" videos by deeplizard 
 (Source: https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw)
 
+<p align="center">
+  <img src="https://github.com/ammaradam/Image-Classification-using-Keras-TensorFlow-Flask-for-Web-Deployment/blob/master/screenshot/Screenshot%20(1).png" width="400" title="hover text">
+  <img src="https://github.com/ammaradam/Image-Classification-using-Keras-TensorFlow-Flask-for-Web-Deployment/blob/master/screenshot/Screenshot%20(3).png" width="400" alt="accessibility text">
+</p>
 
 ## Overview
 One simple approach to deploy our trained Neural Network model into production. This repo uses combination of following applications:
